@@ -68,3 +68,7 @@ input, button{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }}
+audio{
+    border: solid;
+    border-radius: 10px;
+}
